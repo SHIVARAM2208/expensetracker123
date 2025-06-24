@@ -1,0 +1,8 @@
+{
+  "name": "expense-tracker-monorepo",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
